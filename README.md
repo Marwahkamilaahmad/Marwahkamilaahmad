@@ -2,7 +2,7 @@
 ## About me:
 - 🔭 I’m currently a student at Universitas Gadjah Mada
 - 🌱 I’m currently learning Python and Javascript
-- 👯 I’m looking to collaborate as Data Automation and Analyst
+- 👯 I’m looking to collaborate as Front End developer
 - 💬 Ask me about anything
 - 📫 How to reach me: mymarwahmad@gmail.com
 
