@@ -8,7 +8,7 @@
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Software Engineering Technology | Yogyakarta `2022 - 2026`
+#### 1. Universitas Gadjah Mada | Software Engineering Technology | Yogyakarta `2022 - 2026`
 
 
 ## Experience:
