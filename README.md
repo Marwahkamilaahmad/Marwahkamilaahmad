@@ -1,9 +1,10 @@
 # Hello there, I'm Marwah Kamila  - aka [Rua](https://github.com/Marwahkamilaahmad/)
 ## About me:
+I LOVE LEARNING NEW THINGS
 - 🔭 I’m currently a student at Universitas Gadjah Mada
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning Kotlin Go Java and python
 - 👯 I’m looking to collaborate as Front End developer
-- 💬 Ask me about anything
+- 💬 Know me more on linkedin
 - 📫 How to reach me: mymarwahmad@gmail.com
 
 ## Education:
