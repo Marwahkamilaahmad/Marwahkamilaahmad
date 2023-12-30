@@ -2,9 +2,9 @@
 ## About me:
 I LOVE LEARNING NEW THINGS
 - 🔭 I’m currently a student at Universitas Gadjah Mada
-- 🌱 I’m currently learning Kotlin Go Java and python
+- 🌱 I’m currently learning Kotlin Go Javascript and python
 - 👯 I’m looking to collaborate as Front End developer
-- I'M INTEREST IN BACKEND LATELY
+- !!! I'M INTEREST IN BACKEND LATELY !!!
 - 💬 Know me more on linkedin
 - 📫 How to reach me: mymarwahmad@gmail.com
 
