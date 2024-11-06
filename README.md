@@ -1,6 +1,6 @@
 # Hello there, I'm Marwah Kamila  - aka [Rua](https://github.com/Marwahkamilaahmad/)
 ## About me:
-A violinist who interest in coding
+A violinist who interest in coding 🎻
 
 - 🔭 I’m currently a student at Universitas Gadjah Mada
 - 🌱 I’m currently learning Kotlin Go Javascript and python
